@@ -134,6 +134,8 @@ http://localhost:8080/cotacao
 
 ## 3. Executar o cliente
 
+Abrir um novo terminal, acessar a pasta do projeto e executar:
+
 ``` bash
 go run client.go
 ```
